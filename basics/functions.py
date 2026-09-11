@@ -15,3 +15,8 @@ def get_actual_cost(sqft_walls, sqft_ceiling, sqft_per_gallon, cost_per_gallon):
 
 # Check your answer
 q5.check()
+
+def squareroot(x):
+    return x**0.5
+
+print (squareroot(100))
